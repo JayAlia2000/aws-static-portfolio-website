@@ -33,7 +33,7 @@ The website was built and deployed using AWS cloud infrastructure services and c
 http://jocelyn-cloud-portfolio-2026.s3-website.us-east-2.amazonaws.com
 
 ## Project Screenshots
-(here)
+
 
 ## Author
 Jocelyn Bailey
